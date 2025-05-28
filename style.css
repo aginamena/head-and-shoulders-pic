@@ -1,0 +1,13 @@
+body{
+        position: relative;
+    padding-top: 30px;
+}
+div{
+    position: absolute;
+    right: 0;
+    width: 700;
+}
+main{
+        position: absolute;
+    left: 0;
+}
